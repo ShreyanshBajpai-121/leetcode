@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
