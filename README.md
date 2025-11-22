@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
