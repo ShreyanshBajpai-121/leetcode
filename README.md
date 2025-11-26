@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
+| [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0415-add-strings) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
+| [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
