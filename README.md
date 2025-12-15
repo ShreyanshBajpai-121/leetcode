@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1013-fibonacci-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Recursion
 |  |
 | ------- |
