@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Dynamic Programming
 |  |
