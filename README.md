@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3340-check-balanced-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3340-check-balanced-string) |
 ## Greedy
