@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0821-shortest-distance-to-a-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0876-middle-of-the-linked-list) |
