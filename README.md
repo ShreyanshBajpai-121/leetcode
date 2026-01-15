@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0860-lemonade-change) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
