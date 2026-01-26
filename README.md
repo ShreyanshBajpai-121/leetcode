@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
