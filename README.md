@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
