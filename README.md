@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
