@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
