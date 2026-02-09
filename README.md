@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3174-clear-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3379-transformed-array) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Array
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3174-clear-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3340-check-balanced-string) |
 ## Greedy
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
 | ------- |
