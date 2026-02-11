@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
 | [1200-minimum-absolute-difference](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2000-reverse-prefix-of-word) |
