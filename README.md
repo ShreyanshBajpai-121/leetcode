@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
