@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
