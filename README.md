@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0443-string-compression) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -409,18 +411,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
