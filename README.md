@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1816-truncate-sentence](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1816-truncate-sentence) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Divide and Conquer
 |  |
 | ------- |
