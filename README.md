@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
