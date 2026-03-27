@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -490,4 +493,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
