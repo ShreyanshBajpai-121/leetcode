@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3174-clear-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3379-transformed-array) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3379-transformed-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3379-transformed-array) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
 |  |
 | ------- |
