@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3637-trionic-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
