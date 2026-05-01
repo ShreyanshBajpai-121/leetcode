@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1013-fibonacci-number) |
