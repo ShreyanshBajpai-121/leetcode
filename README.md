@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0804-unique-morse-code-words) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Counting
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Merge Sort
 |  |
