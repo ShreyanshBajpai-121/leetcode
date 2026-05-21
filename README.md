@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0860-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0908-smallest-range-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-sort-array-by-parity](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0804-unique-morse-code-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Counting
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Merge Sort
 |  |
