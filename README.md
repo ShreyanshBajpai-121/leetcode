@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3794-reverse-string-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
