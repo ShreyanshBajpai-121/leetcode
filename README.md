@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3794-reverse-string-prefix) |
