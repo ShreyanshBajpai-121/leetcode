@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1816-truncate-sentence](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
