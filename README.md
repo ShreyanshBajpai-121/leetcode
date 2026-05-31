@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0561-array-partition) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0792-binary-search) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
@@ -612,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
