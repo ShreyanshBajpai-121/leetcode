@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0412-fizz-buzz) |
@@ -630,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0561-array-partition) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
