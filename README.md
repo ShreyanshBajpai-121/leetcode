@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0771-jewels-and-stones) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0709-to-lower-case) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
