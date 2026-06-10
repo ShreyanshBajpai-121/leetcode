@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0771-jewels-and-stones) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Number Theory
 |  |
