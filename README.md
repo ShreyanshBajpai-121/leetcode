@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0055-jump-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0141-linked-list-cycle) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0242-valid-anagram) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0257-binary-tree-paths) |
