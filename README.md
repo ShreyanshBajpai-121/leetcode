@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -672,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0014-longest-common-prefix) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
