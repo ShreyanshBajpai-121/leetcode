@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1051-height-checker) |
 ## Trie
 |  |
 | ------- |
