@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1991-find-the-middle-index-in-array) |
