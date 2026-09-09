@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0496-next-greater-element-i) |
+| [0763-partition-labels](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0844-backspace-string-compare) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0561-array-partition) |
+| [0763-partition-labels](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0979-di-string-match) |
