@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2418-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
