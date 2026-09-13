@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0860-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0908-smallest-range-i) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
