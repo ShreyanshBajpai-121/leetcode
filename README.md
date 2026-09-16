@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0973-k-closest-points-to-origin) |
