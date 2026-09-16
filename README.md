@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0832-flipping-an-image) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Recursion
