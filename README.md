@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
