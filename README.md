@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -820,4 +822,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0020-valid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
