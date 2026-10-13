@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1013-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Recursion
 |  |
