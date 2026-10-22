@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
