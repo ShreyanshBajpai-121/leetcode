@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3637-trionic-array-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3637-trionic-array-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
