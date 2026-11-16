@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3637-trionic-array-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3637-trionic-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3693-climbing-stairs-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
