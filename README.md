@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/1137-n-th-tribonacci-number) |
