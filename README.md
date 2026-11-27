@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2942-find-words-containing-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2942-find-words-containing-character](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/ShreyanshBajpai-121/leetcode/tree/master/3340-check-balanced-string) |
